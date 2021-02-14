@@ -9,7 +9,7 @@ Nalepnice su napravljene na zahtev Ciciban/Planika grupe, i omogućavaju štampu
 
 # Upit #
 
-Obrazac se oslanja upit:
+Obrazac se oslanja na upit:
 
 ## rptEL_CeneByUlID_mag ##
 
