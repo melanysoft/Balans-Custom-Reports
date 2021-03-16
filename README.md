@@ -6,4 +6,3 @@ In order to use these reports you must have:
 
 1. Balans software installed locally or on Melany Cloud
 2. Appropriate SQL functions/views pack support
-3. Good will
